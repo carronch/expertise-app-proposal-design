@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="490" viewBox="0 0 900 490" role="img" aria-labelledby="t d">
+<title id="t">From ₡10,000 to ₡380,000: 38 times, in nine months</title>
+<desc id="d">In 2019, ten 16-year-old students at Liceo Rural El Progreso, a rural public high school near the Costa Rica–Panama border, each brought ₡1,000 from home (₡10,000 in total). Following the Ministry of Education guide, they made and sold caldosa de montaña, fried plantains topped with shredded beef, first at school and then in their community, held two bingos, and had ₡380,000 in hand nine months later: 38 times what they started with. One square equals ₡10,000; the start row has 1 square and the end row has 38. Only the start and end amounts are documented.</desc>
+<style>
+  .bg{fill:#fcfcfb}.ink1{fill:#0b0b0b}.ink2{fill:#52514e}.ink3{fill:#898781}
+  .mark{fill:#2a78d6}.line{stroke:#c3c2b7}.ring{stroke:#fcfcfb}
+  text{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+  @media (prefers-color-scheme: dark){
+    .bg{fill:#1a1a19}.ink1{fill:#ffffff}.ink2{fill:#c3c2b7}.ink3{fill:#898781}
+    .mark{fill:#3987e5}.line{stroke:#383835}.ring{stroke:#1a1a19}
+  }
+</style>
+<rect class="bg" x="0" y="0" width="900" height="490" rx="12"/>
+<text class="ink1" x="32" y="98" font-size="72" font-weight="650">38×</text>
+<text class="ink1" x="180" y="62" font-size="22" font-weight="600">₡10,000 → ₡380,000 in nine months</text>
+<text class="ink2" x="180" y="88" font-size="15">In 2019, ten 16-year-olds at a rural public high school near the Panama border ran the business.</text>
+<text class="ink2" x="180" y="108" font-size="15">Their teacher followed the Ministry of Education guide.</text>
+<text class="ink1" x="32" y="161" font-size="14" font-weight="600">Start</text>
+<text class="ink3" x="32" y="178" font-size="12">₡1,000 from each of 10 students</text>
+<rect class="mark" x="224" y="150" width="15" height="15" rx="2"/>
+<text class="ink1" x="32" y="207" font-size="14" font-weight="600">Nine months later</text>
+<text class="ink3" x="32" y="224" font-size="12">₡380,000 in hand</text>
+<rect class="mark" x="224" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="241" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="258" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="275" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="292" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="309" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="326" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="343" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="360" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="377" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="394" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="411" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="428" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="445" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="462" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="479" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="496" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="513" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="530" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="547" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="564" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="581" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="598" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="615" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="632" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="649" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="666" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="683" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="700" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="717" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="734" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="751" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="768" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="785" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="802" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="819" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="836" y="196" width="15" height="15" rx="2"/>
+<rect class="mark" x="853" y="196" width="15" height="15" rx="2"/>
+<text class="ink3" x="224" y="161" font-size="12" dx="23">₡10,000</text>
+<text class="ink3" x="224" y="246" font-size="12">Each square is ₡10,000, the money they started with.</text>
+<text class="ink1" x="32" y="290" font-size="14" font-weight="600">How it grew</text>
+<text class="ink3" x="124" y="290" font-size="12">Only the first and last amounts are documented.</text>
+<line class="line" x1="70" y1="318" x2="830" y2="318" stroke-width="2" stroke-linecap="round"/>
+<circle class="mark ring" cx="70.0" cy="318" r="6" stroke-width="2"/>
+<text class="ink1" x="70.0" y="348" font-size="13" text-anchor="middle" font-weight="600">₡1,000 each</text>
+<text class="ink1" x="70.0" y="366" font-size="13" text-anchor="middle" font-weight="600">from home</text>
+<circle class="mark ring" cx="165.0" cy="318" r="6" stroke-width="2"/>
+<text class="ink2" x="165.0" y="348" font-size="13" text-anchor="middle">Bought oil</text>
+<text class="ink2" x="165.0" y="366" font-size="13" text-anchor="middle">and meat</text>
+<circle class="mark ring" cx="260.0" cy="318" r="6" stroke-width="2"/>
+<text class="ink2" x="260.0" y="348" font-size="13" text-anchor="middle">Caldosa de</text>
+<text class="ink2" x="260.0" y="366" font-size="13" text-anchor="middle">montaña</text>
+<circle class="mark ring" cx="355.0" cy="318" r="6" stroke-width="2"/>
+<text class="ink2" x="355.0" y="348" font-size="13" text-anchor="middle">Sold at</text>
+<text class="ink2" x="355.0" y="366" font-size="13" text-anchor="middle">school</text>
+<circle class="mark ring" cx="450.0" cy="318" r="6" stroke-width="2"/>
+<text class="ink2" x="450.0" y="348" font-size="13" text-anchor="middle">Sold in the</text>
+<text class="ink2" x="450.0" y="366" font-size="13" text-anchor="middle">community</text>
+<circle class="mark ring" cx="545.0" cy="318" r="6" stroke-width="2"/>
+<text class="ink2" x="545.0" y="348" font-size="13" text-anchor="middle">First</text>
+<text class="ink2" x="545.0" y="366" font-size="13" text-anchor="middle">bingo</text>
+<circle class="mark ring" cx="640.0" cy="318" r="6" stroke-width="2"/>
+<text class="ink2" x="640.0" y="348" font-size="13" text-anchor="middle">Grew the</text>
+<text class="ink2" x="640.0" y="366" font-size="13" text-anchor="middle">business</text>
+<circle class="mark ring" cx="735.0" cy="318" r="6" stroke-width="2"/>
+<text class="ink2" x="735.0" y="348" font-size="13" text-anchor="middle">Second</text>
+<text class="ink2" x="735.0" y="366" font-size="13" text-anchor="middle">bingo</text>
+<circle class="mark ring" cx="830.0" cy="318" r="6" stroke-width="2"/>
+<text class="ink1" x="830.0" y="348" font-size="13" text-anchor="middle" font-weight="600">₡380,000</text>
+<text class="ink1" x="830.0" y="366" font-size="13" text-anchor="middle" font-weight="600">38×</text>
+<text class="ink3" x="32" y="414" font-size="12">Caldosa de montaña: fried plantains with carne mechada (shredded beef) on top.</text>
+<text class="ink3" x="32" y="432" font-size="12">Two of the students' families went on to start businesses of their own.</text>
+<text class="ink3" x="32" y="462" font-size="11">Sources: Liceos Rurales guides (MEP, 2021); video script, Liceo Rural El Progreso (2023); Daniel Carranza (2026).</text>
+</svg>
